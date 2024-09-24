@@ -1,0 +1,10 @@
+------------------------------------------------------------------------1;BGD-872;Honda;CR-V;5;28000;Blanco
+2;KLM-213;Nissan;X-Trail;7;32000;Gris
+3;ZXY-563;Ford;Escape;5;27000;Azul
+4;PRQ-192;Hyundai;Tucson;5;29000;Rojo
+5;QWE-341;Chevrolet;Equinox;7;31000;Verde
+6;VFG-482;Jeep;Cherokee;5;35000;Plata
+7;LOP-716;Subaru;Forester;5;26500;Marrón
+8;RTY-258;Mazda;CX-5;5;27500;Negro
+9;HJK-936;Volkswagen;Tiguan;7;30000;Amarillo
+10;XYZ-785;Mitsubishi;Outlander;5;28500;Gris
